@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projektgry", "Assembly-CSharp.csproj", "{F9E34342-1017-8977-F22E-D625F875DD78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projektgry", "Assembly-CSharp-Editor.csproj", "{2F8DDC68-C5B0-06B6-81CA-2C4A890609E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9E34342-1017-8977-F22E-D625F875DD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E34342-1017-8977-F22E-D625F875DD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E34342-1017-8977-F22E-D625F875DD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E34342-1017-8977-F22E-D625F875DD78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F8DDC68-C5B0-06B6-81CA-2C4A890609E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8DDC68-C5B0-06B6-81CA-2C4A890609E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8DDC68-C5B0-06B6-81CA-2C4A890609E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8DDC68-C5B0-06B6-81CA-2C4A890609E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
